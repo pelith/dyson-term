@@ -1,0 +1,14 @@
+{
+  "name": "dyson-term",
+  "version": "1.0.0",
+  "description": "Term of use",
+  "main": "index.html",
+  "repository": "git@github.com:pelith/dyson-term.git",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
